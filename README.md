@@ -1,5 +1,8 @@
 # CPBL
-2019 CPBL Sabermetrics project
+2019 CPBL Sabermetrics project<br>
+Project Members: 黃嘯風、黃振維、劉昱呈、陳冠澤、陳竑瑋、黃文樂 <br>
+Project Advisor: Prof. 黃俊堯 <br>
+Project Presentation: https://tinyurl.com/msazmwry<br>
 
 資料處理
 
